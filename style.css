@@ -55,6 +55,7 @@ nav{
     border: none;
     outline: none;
     padding-left: 20px;
+    width: 100%;
 }
 .nav-search-icon{
     max-width: 41px;
